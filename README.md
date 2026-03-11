@@ -1,0 +1,2 @@
+# Grad-CAM-Disease-Heatmap-Analysis-Controlled-vs-Uncontrolled-Field-Conditions
+This project implements an end-to-end deep learning pipeline for plant disease classification using the PlantVillage dataset.  Key Features: Model Architecture: Pre-trained ResNet-18 fine-tuned on 15 distinct plant disease classes. Dynamic Training: Automated script generation that detects class structures from directory metadata. Interpretability:
